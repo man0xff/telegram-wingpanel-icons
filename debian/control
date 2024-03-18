@@ -1,0 +1,9 @@
+Package: telegram-wingpanel-icons
+Version: 0.1
+Section: x11
+Priority: optional
+Architecture: all
+Maintainer: man0xff <man0xff@gmail.com>
+Description: Telegram Icons for WingPanel
+ Better looking Telegram status icons for WingPanel
+Homepage: https://github.com/man0xff/telegram-wingpanel-icons
